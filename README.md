@@ -1,5 +1,7 @@
-<img width="1307" height="927" alt="image" src="https://github.com/user-attachments/assets/7aa6c4e9-be49-4bb6-95c6-731e16cc15bc" /># ScanExcel
+# ScanExcel
+
 离线二维码与条码扫描工具，支持批量记录和 Excel 导出。
+
 ## 下载
 
 [点击下载 ScanExcel 安装包](https://github.com/LuoTianyi007/ScanExcel/releases/tag/v1.4.4)
